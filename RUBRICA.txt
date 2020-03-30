@@ -1,0 +1,8 @@
+Terrain
+input (correr - left shift, hacerte daño - E, darte monedas - Y)
+Triggers 
+Luces (la del cielo, en las monedas y en la casa)
+HUD (con la E se pierde vida)
+IA (si te chocas con la IA, esta muere, si se acerca se va, sinó te sigue)
+Level blueprint funcionalidades (con la Y se da monedas para la puerta)
+Sonido con características (detrás de la puerta hay un trigger con el sonido)
